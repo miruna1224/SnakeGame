@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1496065929 source:d:\miruna\liceu\informatica\code blocks\jocuri\snake game\maze game\main.cpp
+	<iostream>
+	<conio.h>
+	<math.h>
+	<windows.h>
+	<MMSystem.h>
+
+1496145915 source:d:\miruna\liceu\informatica\code blocks\jocuri\snake game\final game fara jump\main.cpp
+	<iostream>
+	<conio.h>
+	<math.h>
+	<windows.h>
+	<MMSystem.h>
+
+1496165504 source:d:\miruna\liceu\informatica\code blocks\jocuri\snake game\final game fara jump - copy\main.cpp
+	<iostream>
+	<conio.h>
+	<math.h>
+	<windows.h>
+	<MMSystem.h>
+
+1496168731 source:d:\miruna\liceu\informatica\code blocks\jocuri\snake game\final game\main.cpp
+	<iostream>
+	<conio.h>
+	<math.h>
+	<windows.h>
+	<MMSystem.h>
+
+1519930236 source:c:\users\miru\desktop\final game\main.cpp
+	<iostream>
+	<conio.h>
+	<math.h>
+	<windows.h>
+	<MMSystem.h>
+
+1525556601 source:d:\informatica\games\final game\main.cpp
+	<iostream>
+	<conio.h>
+	<math.h>
+	<windows.h>
+	<MMSystem.h>
+	<fstream>
+
+1525556602 source:g:\informatica\games\final game\main.cpp
+	<iostream>
+	<conio.h>
+	<math.h>
+	<windows.h>
+	<MMSystem.h>
+	<fstream>
+
